@@ -1,4 +1,10 @@
-# Kreditkarte
+---
+sidebar-position: 5
+---
+
+# Zahlungsarten für Ihre Kunden
+
+## Kreditkarte
 
 Dem Kunden wird nach erfolgreicher Bezahlung eine Download-Seite angezeigt, auf welcher alle gekauften Gutscheine heruntergeladen werden können.
 
@@ -8,7 +14,7 @@ In einer separaten E-Mail erhält der Kunde seine Rechnung. Erfahre mehr zu Rech
 
   
 
-# Banküberweisung
+## Banküberweisung
 
 Dem Kunden wird der Gutschein unmittelbar nach dem Kauf zur Verfügung gestellt.
 
