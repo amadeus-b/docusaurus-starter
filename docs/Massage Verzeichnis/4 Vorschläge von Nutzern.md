@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 Auf jeder Studio-Seite haben Nutzer die Möglichkeit, Änderungsvorschläge mitzuteilen.
 
 Diese werden von uns geprüft und ggf. veröffentlicht.
