@@ -1,3 +1,9 @@
+---
+sidebar-position: 2
+---
+
+# Abrechnung von Studio Gutscheinen
+
 Bei Studio-Gutscheinen findet der Verkauf komplett durch Sie statt. Thai-Massage.de bietet Ihnen hierzu die entsprechende Plattform.
 
 Die Zahlungsabwicklung läuft über den Zahlungsanbieter “Stripe”.
@@ -13,8 +19,6 @@ Wir übernehmen die Zahlungsgebühren von Stripe, damit wir Ihnen monatlich eine
 Für diesen umfassenden Service, behalten wir eine entsprechende Gebühr ein.
 
 Damit auch im Fall eines Widerrufes die Verwaltung möglichst unkompliziert läuft, wird Ihr Umsatz nach 17 Tagen automatisch auf Ihr Bankkonto ausbezahlt.
-
-  
   
 
 Erfahren Sie mehr zum Thema Widerruf von Gutscheinen.
