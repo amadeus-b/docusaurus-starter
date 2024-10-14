@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 Sie können Ihren Studio-Eintrag jederzeit ändern. Die Voraussetzung hierfür ist, dass Sie durch eine Verifizierung den Eintrag übernommen haben.
 
 Bitte beachten Sie folgende Einschränkungen:
