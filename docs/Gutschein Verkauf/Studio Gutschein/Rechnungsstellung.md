@@ -1,3 +1,8 @@
+---
+sidebar-position: 3
+---
+
+# Rechnungen erstellen
 
 Ihr Gutscheinsystem enthält eine vollautomatische Rechnungsstellung. Alle Rechnungen können Sie in Ihrem Konto herunterladen oder erhalten diese unmittelbar per E-Mail.
 
