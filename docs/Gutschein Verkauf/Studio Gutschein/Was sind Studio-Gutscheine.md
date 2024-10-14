@@ -1,4 +1,8 @@
-# Studio-Gutscheine
+---
+sidebar-position: 1
+---
+
+# Ihr eigener Gutschein-Shop
 
 Betreiben Sie Ihren eigenen Gutschein-Shop.
 
