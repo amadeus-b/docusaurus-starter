@@ -1,3 +1,8 @@
+---
+sidebar-position: 1
+---
+# Bewertungen
+
 Auf Ihrer Studioseite haben Nutzer die Möglichkeit Bewertungen zu verfassen. Bewertungen können Text, Ranking und Bilder enthalten.
 
 Das Ranking ermöglicht eine Vergabe von 1-5 Sternen, wobei 5 Sterne die beste Bewertung darstellen.
