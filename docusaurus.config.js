@@ -31,7 +31,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'de'],
   },
 
   presets: [
@@ -74,7 +74,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Thai-Massage.de - Docs',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -85,6 +85,10 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'left',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
