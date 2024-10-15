@@ -1,3 +1,9 @@
+---
+sidebar-position: 6
+---
+
+# Widerruf von Gutscheinen
+
 Die gesetzliche Regelung sieht ein Widerrufsrecht von 14 Tagen vor.
 
 Damit Sie den gesetzlichen Anforderungen gerecht werden, übernehmen wir die Abwicklung für Sie.
