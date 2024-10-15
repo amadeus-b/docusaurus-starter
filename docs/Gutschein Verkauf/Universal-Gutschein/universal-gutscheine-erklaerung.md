@@ -1,3 +1,7 @@
+---
+sidebar-position: 1
+---
+
 # Was sind Universal-Gutscheine?
 
 Universal-Gutscheine werden direkt durch thai-massage.de verkauft. Dieser Gutschein kann bei allen teilnehmenden Partnerstudios eingelöst werden.
