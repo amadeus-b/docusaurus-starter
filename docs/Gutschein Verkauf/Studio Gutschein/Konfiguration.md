@@ -1,3 +1,6 @@
+---
+sidebar-position: 4
+---
 
 # Einrichtung Studio Gutschein
 
