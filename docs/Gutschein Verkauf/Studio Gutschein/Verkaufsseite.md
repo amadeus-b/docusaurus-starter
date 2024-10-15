@@ -1,3 +1,9 @@
+---
+sidebar-position: 7
+---
+
+# Verkaufsseite
+
 Während des Registrierungsprozesses für Ihren Online-Shop können Sie festlegen unter welcher Internetadresse Ihr Shop erreichbar ist.
 
 Damit Ihre Kunden Ihren Shop finden, fügen Sie Ihrer Internetseite einen Button hinzu, der auf diese Internetseite verweist.
