@@ -1,41 +1,43 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Tutorial Intro',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Generate a new Docusaurus site using the classic template.
+        The classic template will automatically be added to your project after you run the command:
       </>
     ),
+    link: '/docs/intro',
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Massage Verzeichnis',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Ihr Eintrag auf Thai-Massage.de
       </>
     ),
+    link: '/docs/category/massage-verzeichnis',
   },
   {
-    title: 'Powered by React',
+    title: 'Gutschein Verkauf',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Entdecken Sie unsere Lösungen für mehr Online-Umsatz
       </>
     ),
+    link: '/docs/category/gutschein-verkauf',
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description, link }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
@@ -43,7 +45,10 @@ function Feature({Svg, title, description}) {
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
+        <Link to={link} className="button button--secondary button--md">
+          View Docs
+        </Link>
+        {/* <p>{description}</p> */}
       </div>
     </div>
   );

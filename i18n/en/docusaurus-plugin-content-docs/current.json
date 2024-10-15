@@ -1,0 +1,38 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Massage Verzeichnis": {
+    "message": "Massage Verzeichnis",
+    "description": "The label for category Massage Verzeichnis in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Massage Verzeichnis.link.generated-index.description": {
+    "message": "Ihr Eintrag auf Thai-Massage.de",
+    "description": "The generated-index page description for category Massage Verzeichnis in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bewertungssystem": {
+    "message": "Bewertungssystem",
+    "description": "The label for category Bewertungssystem in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bewertungssystem.link.generated-index.description": {
+    "message": "Ihr Eintrag auf Thai-Massage.de",
+    "description": "The generated-index page description for category Bewertungssystem in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Gutschein Verkauf": {
+    "message": "Gutschein Verkauf",
+    "description": "The label for category Gutschein Verkauf in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Gutschein Verkauf.link.generated-index.description": {
+    "message": "Entdecken Sie unsere Lösungen für mehr Online-Umsatz",
+    "description": "The generated-index page description for category Gutschein Verkauf in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Studio Gutscheine": {
+    "message": "Studio Gutscheine",
+    "description": "The label for category Studio Gutscheine in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Studio Gutscheine.link.generated-index.description": {
+    "message": "Verkaufen Sie Gutscheine im eigenen Namen",
+    "description": "The generated-index page description for category Studio Gutscheine in sidebar tutorialSidebar"
+  }
+}
