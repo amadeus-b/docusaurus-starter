@@ -1,3 +1,9 @@
+---
+sidebar-position: 8
+---
+
+# Sicherheit
+
 Alle Gutscheine bestehen aus einem 16-stelligen Gutscheincode, sowie einem 6-stelligen PIN.
 
 Nur mit diesen beiden Angaben kann ein Gutschein eingelöst werden.
