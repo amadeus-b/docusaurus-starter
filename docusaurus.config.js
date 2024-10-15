@@ -30,8 +30,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'de',
-    locales: ['de', 'en'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   presets: [
@@ -74,7 +74,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Thai-Massage.de - Docs',
+        title: 'My Site',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -85,10 +85,6 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
-          },
-          {
-            type: 'localeDropdown',
-            position: 'left',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
