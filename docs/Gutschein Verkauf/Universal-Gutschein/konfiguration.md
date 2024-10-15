@@ -1,8 +1,9 @@
-**
+---
+sidebar-position: 3
+---
 
 # Einrichtung Universal-Gutschein
 
-  
 
 Um als Partnerstudio Universal-Gutscheine akzeptieren zu können, aktivieren Sie Studio.
 
