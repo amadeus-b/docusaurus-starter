@@ -4,6 +4,8 @@ sidebar-position: 2
 
 # Abrechnung von Studio Gutscheinen
 
+This is my thai-version
+
 Bei Studio-Gutscheinen findet der Verkauf komplett durch Sie statt. Thai-Massage.de bietet Ihnen hierzu die entsprechende Plattform.
 
 Die Zahlungsabwicklung läuft über den Zahlungsanbieter “Stripe”.
